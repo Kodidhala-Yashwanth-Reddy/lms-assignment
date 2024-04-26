@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\leaveRequest",
+    "\\leaveRequest\\src",
+    "\\leaveRequest\\src\\Components",
+    "\\leaveRequest\\src\\Components\\Dashboard",
+    "\\leaveRequest\\src\\Components\\LeaveRequestForm",
+    "\\leaveRequest\\src\\Components\\Login",
+    "\\leaveRequest\\src\\Components\\ManagerLogin",
+    "\\leaveRequest\\src\\Components\\ViewApplicationForm"
+  ],
+  "SelectedNode": "\\leaveRequest\\src\\Components\\Dashboard\\index.css",
+  "PreviewInSolutionExplorer": false
+}

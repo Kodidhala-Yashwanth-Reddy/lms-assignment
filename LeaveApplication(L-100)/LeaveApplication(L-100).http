@@ -1,0 +1,6 @@
+@LeaveApplication_L_100__HostAddress = http://localhost:5235
+
+GET {{LeaveApplication_L_100__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

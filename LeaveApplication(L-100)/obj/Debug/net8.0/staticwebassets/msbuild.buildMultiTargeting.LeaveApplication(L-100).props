@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LeaveApplication(L-100).props" />
+</Project>

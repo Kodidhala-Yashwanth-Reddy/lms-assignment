@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tabs-container {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    background: rgb(30,23,159);
+    background: linear-gradient(90deg, rgba(30,23,159,1) 0%, rgba(31,213,214,0.8715861344537815) 52%, rgba(0,212,255,1) 100%);
+    bottom: 0;
+    display: flex;
+    border-radius:20px;
+}
+
+.tab-button {
+    background-color: #ddd;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.tab-button.active {
+        background-color: #555;
+        color: #fff;
+    }
+
+.input-field {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-top: 4px;
+}
+
+.form-field {
+    margin-bottom: 12px;
+}
